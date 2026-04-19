@@ -1,4 +1,4 @@
-# Food Processing Quality Analytics — 6-Week Internship Project (Real Work + Submission Pack)
+# Food Processing Quality Analytics 
 
 This repository contains a complete Week 1 → Week 6 workflow for a food-quality analytics project, implemented as **reproducible code** with **generated evidence** (plots, metrics, CSV/JSON artifacts). Each week is tracked as a publishable folder under `weeks/`.
 
