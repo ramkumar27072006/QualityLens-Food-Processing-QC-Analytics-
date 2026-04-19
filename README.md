@@ -74,9 +74,3 @@ Logistic Regression:
    - Week 4: `python scripts/05_week4_modeling_and_hypothesis.py`
    - Week 5: `python scripts/06_week5_evaluation_and_risk.py`
    - Week 6: `python scripts/07_week6_docs.py`
-
-## Submission (DOCX)
-Generate submission-ready Word documents (one per week + combined):
-- `python scripts/08_generate_submission_docx.py`
-
-Outputs are written to [submissions/](submissions/). See [submissions/README.md](submissions/README.md) for what to upload and where to paste the weekly description text.
