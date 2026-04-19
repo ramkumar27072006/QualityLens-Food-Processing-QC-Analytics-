@@ -1,0 +1,7 @@
+{
+  "n_features": 19,
+  "n_rows": 5320,
+  "positive_class_definition": "quality >= 7",
+  "positive_rate": 0.18966165413533834,
+  "quality_threshold": 7
+}

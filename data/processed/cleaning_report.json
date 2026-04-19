@@ -1,0 +1,25 @@
+{
+  "cols_after": 14,
+  "cols_before": 13,
+  "duplicate_rows_after": 0,
+  "duplicate_rows_before": 1177,
+  "imputed_columns": [],
+  "iqr_outlier_counts": {
+    "alcohol": 1,
+    "chlorides": 237,
+    "citric_acid": 143,
+    "density": 3,
+    "fixed_acidity": 304,
+    "free_sulfur_dioxide": 44,
+    "ph": 49,
+    "residual_sugar": 141,
+    "sulphates": 163,
+    "total_sulfur_dioxide": 10,
+    "volatile_acidity": 279
+  },
+  "missing_total_after": 0,
+  "missing_total_after_dedup": 0,
+  "missing_total_before": 0,
+  "rows_after": 5320,
+  "rows_before": 6497
+}

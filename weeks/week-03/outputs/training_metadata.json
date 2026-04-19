@@ -1,0 +1,9 @@
+{
+  "models": [
+    "logreg",
+    "rf"
+  ],
+  "n_features": 19,
+  "n_train": 4256,
+  "random_state": 42
+}
